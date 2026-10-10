@@ -39,6 +39,11 @@
 .lesson-media-heading p{font-size:11px;color:var(--muted);margin:3px 0 0}
 .video-course-frame{max-width:100%;background:#f7faf7}
 .video-course-frame>.video-poster{aspect-ratio:16/9}
+.video-chapters{padding:11px 17px;border-bottom:1px solid var(--line);background:var(--panel)}
+.chapter-caption{font-size:9px;letter-spacing:1px;color:var(--muted);font-weight:750}
+.chapters-scroll{display:flex;align-items:center;gap:7px;overflow-x:auto;padding:7px 0 2px;scrollbar-width:thin}
+.chapters-scroll button{flex:none;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--text);font-size:10px;padding:7px 10px;white-space:nowrap}
+.chapters-scroll button:hover,.chapters-scroll button.active{border-color:#8dbda0;background:var(--pale);color:var(--green)}
 .video-source-line{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;padding:13px 19px;color:var(--muted);font-size:11px}
 .video-source-line a{color:var(--green);font-weight:700}
 .media-tabs{display:flex;gap:7px;padding:11px 12px;background:var(--panel);border:1px solid var(--line);border-radius:13px;margin-bottom:16px;flex-wrap:wrap}
