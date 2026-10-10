@@ -39,6 +39,14 @@ export const VIDEO_BY_LESSON={
  "5-7":{key:"dashboard",start:187,fit:"complementary"},
  "5-8":{key:"dashboard",start:0,fit:"direct"}
 };
+export const VIDEO_CHAPTERS={
+ "bfMEwjgTZ20":[{at:187,name:"Preparar los datos"},{at:489,name:"Indicadores KPI"},{at:1048,name:"Gráfico de columnas"},{at:1318,name:"Gráfico de anillos"},{at:1657,name:"Gráfico de barras"},{at:2862,name:"Segmentadores"}],
+ "gbEr7ugjWlE":[{at:67,name:"Crear tabla dinámica"},{at:122,name:"Filas y columnas"},{at:159,name:"Campo de valores"},{at:238,name:"Filtrar datos"},{at:366,name:"Actualizar datos"}],
+ "tN6_ZEaqYBo":[{at:622,name:"Primera tabla dinámica"},{at:688,name:"Campos y áreas"},{at:1225,name:"Agrupar fechas"},{at:2433,name:"Tipos de cálculo"},{at:3139,name:"Porcentajes"},{at:4371,name:"Segmentadores"}],
+ "qAlHmBq8lVc":[{at:88,name:"Conjunto de datos"},{at:198,name:"Eliminar duplicados"},{at:461,name:"Eliminar filas"},{at:520,name:"Completar campos"},{at:776,name:"Fechas"}],
+ "okL87ND49vM":[{at:45,name:"Cómo funciona"},{at:105,name:"Validar enteros"},{at:257,name:"Crear listas"},{at:428,name:"Validar fechas"},{at:608,name:"Evitar duplicados"}],
+ "ubMkD_CGyMQ":[{at:68,name:"Escribir BUSCARX"},{at:115,name:"Rango de búsqueda"},{at:155,name:"Datos devueltos"},{at:223,name:"Argumentos opcionales"}]
+};
 export const FIGURES={
  "1-1":{file:"Excel_Screen_copy.jpg",caption:"Referencia de la interfaz de Excel (captura de 2014; la cinta y menús actuales pueden variar).",author:"Ghanshyam Sagar Pant",license:"CC BY-SA 4.0",source:"https://commons.wikimedia.org/wiki/File:Excel_Screen_copy.jpg"},
  "1-3":{file:"Excel-formatoceldas.png",caption:"Ejemplo de configuración de formato de celdas (captura histórica; no es Excel 365).",author:"Jsmura",license:"Dominio público",source:"https://commons.wikimedia.org/wiki/File:Excel-formatoceldas.png"},
